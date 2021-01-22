@@ -1,0 +1,152 @@
+body {
+  margin: 0;
+  color : #40514E;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  background-color: #eaf6f6;
+  text-align: center;
+  padding-top: 100px;
+  position: relative;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin-top: 100px;
+  padding: 50px 0 20px;
+}
+
+.my-title {
+  font-weight: normal;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+
+h1 {
+  color: #66BFBF;
+  font-size: 4rem;
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 10px;
+  color: #EAF6F6;
+  margin: 100px auto;
+  width: 5%;
+}
+
+a {
+  color: #11999E;
+  font-family:'Montserrat', sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.my-bio {
+  width: 30%;
+  margin: auto;
+  color: #40514E;
+  line-height: 2;
+}
+
+.footer-note {
+  font-weight: 600;
+  width: 30%;
+  line-height: 2;
+  margin: 50px auto 100px;
+}
+
+.footer-link {
+  padding: 20px;
+}
+
+.copyright-name {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding : 30px 0;
+}
+
+.coding-img {
+  float: left;
+  margin-right: 30px;
+}
+
+.game-img {
+  float:right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  font-weight: 600;
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 25%;
+  bottom: 45%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 30%;
+  top: 6%;
+}
+
+.profile-pic {
+  width: 10%;
+  margin-top: 80px;
+}
+
+.BUTTON_IEZ {
+   -webkit-border-radius: 12px;
+   -moz-border-radius: 12px;
+   border-radius: 12px;
+   color: #FFFFFF;
+   font-family: 'Montserrat';
+   font-size: 16px;
+   font-weight: 600;
+   padding: 20px;
+   background-color: #66BFBF;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #000000 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_IEZ:hover {
+   background: #30e3cb;
+   -webkit-border-radius: 12px;
+   -moz-border-radius: 12px;
+   border-radius: 12px;
+   text-decoration: none;
+}
